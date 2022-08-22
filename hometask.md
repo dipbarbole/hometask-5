@@ -12,11 +12,11 @@ sidebar_position: 6
 
    | Principle                        | Examples |
    | -------------------------------- | -------- |
-   | Single Responsibility Principle  |          |
-   | Open / Closed Principle          |          |
-   | Liskov Substitution Principle    |          |
-   | Interface Seggregation Principle |          |
-   | Dependency Inversion Principle   |          |
+   | Single Responsibility Principle  |   [SSR render (Project React)](https://github.dev/facebook/react/blob/main/fixtures/ssr/server/render.js#L23)        |
+   | Open / Closed Principle          | [SSR index (Project React)](https://github.dev/facebook/react/blob/main/fixtures/ssr/server/index.js#L6)         |
+   | Liskov Substitution Principle    |     [Utils (Project VSCode)](https://github.dev/microsoft/vscode/blob/main/build/lib/eslint/utils.ts#L1)     |
+   | Interface Seggregation Principle |    [Tak.ts (Project VSCode)](https://github.dev/microsoft/vscode/blob/main/build/lib/task.ts#L14) - line 14 to line 22      |
+   | Dependency Inversion Principle   |      [(Project VSCode)](https://github.dev/microsoft/vscode/blob/main/build/lib/policies.ts#L148)   line 65-107  |
 
 2. Violations of SOLID and Other Principles
 
